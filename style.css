@@ -1,0 +1,45 @@
+body {
+    font-family: 'Playfair Display', serif;
+    font-size: 25px;
+    margin: 0;
+}
+
+.h1 {
+    font-weight: 700;
+    color: white;
+    font-size: 50px;
+}
+
+.fast-section {
+    display: flex;
+    text-align: center;
+    background-image: url(image/donation5.png);
+    height: 100%;
+    width: 110%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 100px;
+}
+
+.div1 {
+    margin-top: 10%;
+    margin-bottom: 200px;
+}
+
+.div2 {
+    text-align: center;
+    margin-right: 19%;
+    margin-left: 22%;
+    margin-bottom: 5%;
+    color: rgb(255, 255, 255);
+}
+
+.donate {
+    text-decoration: none;
+    font-weight: 700;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 15px;
+    border-radius: 10px;
+    text-align: center;
+}
