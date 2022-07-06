@@ -227,6 +227,10 @@ footer {
     color: white;
     background-color: black;
     margin: 0%;
-    padding: 20px;
+    padding: 15px;
     font-family: 'Courier New', Courier, monospace;
+}
+
+#copyright {
+    font-size: 16px;
 }
