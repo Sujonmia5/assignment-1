@@ -199,25 +199,26 @@ h3 {
     margin-left: 25%;
     margin-right: 25%;
     margin-bottom: 100px;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
 
 #Email {
-    width: 50%;
+    width: 40%;
     padding: 12px 12px;
     font-weight: 900;
 }
 
 button {
     border: 1px solid rgb(255, 72, 0);
-    font-weight: 700;
+    font-weight: 900;
+    font-size: 20px;
     color: whitez;
     border-radius: 2px;
-    padding-top: 16px;
-    padding-bottom: 13px;
-    padding-left: 8px;
-    padding-right: 8px;
+    padding-top: 7px;
+    padding-bottom: 11px;
+    padding-left: 10px;
+    padding-right: 10px;
     background-color: rgb(247, 71, 0);
 }
 
